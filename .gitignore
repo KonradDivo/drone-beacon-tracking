@@ -1,0 +1,14 @@
+# Fichiers de configuration de Code::Blocks
+*.depend
+*.layout
+*.cbp.user
+
+# Ignorer les gros fichiers de données de l'IA et la vidéo de test
+*.mp4
+
+# Dossiers de compilation (Exécutables et objets)
+bin/
+obj/
+build/
+*.exe
+*.o
